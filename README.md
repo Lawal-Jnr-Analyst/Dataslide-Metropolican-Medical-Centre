@@ -19,7 +19,7 @@ The goal is to help hospital administrators monitor patient throughput, evaluate
 
 
 ## 🖥️ Preview
-[Dataslid Metropolican Dashboard](https://github.com/Lawal-Jnr-Analyst/Dataslide-Metropolican-Medical-Centre/blob/main/healthcare%20data.jpg)
+[Dataslid Metropolican Dashboard](https://github.com/Lawal-Jnr-Analyst/Dataslid-Metropolican-Medical-Centre/blob/main/healthcare%20data.jpg)
 >click the image above to see a preview of the final dashboard.
 
 
